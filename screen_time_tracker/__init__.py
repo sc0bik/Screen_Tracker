@@ -1,0 +1,2 @@
+"""Screen time tracker package."""
+

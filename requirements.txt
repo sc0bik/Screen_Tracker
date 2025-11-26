@@ -1,0 +1,7 @@
+pynput
+pywin32
+psutil
+pystray
+Pillow
+schedule
+win10toast
